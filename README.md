@@ -1,1 +1,1 @@
-Project to anonymize faces in videos.
+Project to anonymize people's faces in videos.
